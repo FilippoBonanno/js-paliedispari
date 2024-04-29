@@ -8,3 +8,10 @@ se una delle lettere non combacia allora do false, altrimenti se il ciclo arriva
 
 
 PARI E DISPARI
+
+creo due pulsanti in html , pari e dispari
+creo due variabili per selezionare i miei button
+creo due event listner in base al pulsante cliccato
+chiedo attraverso un prompt all'utente un numero tra 1 e 5
+adesso creo un numero casuale da 1 e 5 usando una funzione
+sommo i due numeri in una variabile e controllo se è pari o dispari, in base al pulsante clicckato in precedenza dichiaro il vincitore
